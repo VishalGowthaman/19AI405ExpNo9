@@ -146,8 +146,7 @@ while(player):
 ![277158798-4be5bf06-79fa-4fa0-9334-38a33f06060b](https://github.com/Aravindsamy04/19AI405ExpNo9/assets/113497037/83b5f0cd-cd52-4150-b6ff-6a539992cf2b)
 
 
-    RESULT:
-</h1>
+<h1>RESULT:</h1>
       Therefore,Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully. 
 
 
